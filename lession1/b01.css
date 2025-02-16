@@ -1,0 +1,41 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, "Franklin Gothic Medium",
+    "Arial Narrow", Arial, sans-serif;
+  font-size: 16px;
+  color: #2d2d2d;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  width: 500px;
+  border-right: 2px solid gray;
+  padding: 20px;
+}
+
+.container {
+  text-align: center;
+}
+.container span {
+  color: #c9c9cf;
+}
+
+.container h2 {
+  font-weight: bold;
+  font-size: 20px;
+}
+.container p {
+  color: #9b6672;
+  margin: 20px;
+}
+img {
+  margin-top: 20px;
+  margin: 20px;
+}
+.container button {
+  width: 150px;
+  height: 50px;
+  background-color: #ffffff;
+  border: 2px solid black;
+}

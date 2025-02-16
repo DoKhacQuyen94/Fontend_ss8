@@ -1,0 +1,45 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, "Franklin Gothic Medium",
+    "Arial Narrow", Arial, sans-serif;
+  font-size: 16px;
+  color: #2d2d2d;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.post-container {
+  width: 400px;
+  position: relative;
+}
+.post-container img {
+  width: 100%;
+}
+.post-container h3 {
+  text-transform: uppercase;
+  font-size: 28px;
+  padding-left: 20px;
+  border-left: 5px solid #ff6116;
+  margin-bottom: 20px;
+}
+.post-title a {
+  font-size: 28px;
+  text-decoration: none;
+  color: white;
+}
+.post-title {
+  padding: 20px;
+  position: absolute;
+  top: 437px;
+  left: 0;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.post-container li {
+  padding: 15px 0;
+  border-bottom: 1px solid rgb(185, 183, 183);
+}
+.post-container li a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
